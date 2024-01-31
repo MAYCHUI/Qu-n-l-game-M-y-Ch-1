@@ -1,0 +1,5 @@
+[![.github/workflows/auto-assign.yml](https://github.com/Qu-n-ly-t-ch-c/demo-repository/actions/workflows/auto-assign.yml/badge.svg?branch=main)](https://github.com/Qu-n-ly-t-ch-c/demo-repository/actions/workflows/auto-assign.yml){
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
